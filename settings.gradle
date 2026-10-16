@@ -1,0 +1,2 @@
+rootProject.name = "Aquasafe-monitor1"
+include ':app'
